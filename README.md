@@ -24,18 +24,23 @@ This prototype is a 2D platformer featuring two levels. It showcases creative us
   * Falling Platforms: Present in Level 2. Platforms respawn if needed for repeated crossings.
 
 ## Visuals
+
 ![Overview of Level 1](screenshots/level1.png)
-An overview of Level 1, showcasing platform layouts and initial obstacles.
+> An overview of Level 1, showcasing platform layouts and initial obstacles.
+---
 
 ![Overview of Level 2](screenshots/level2.png)
-An expansive look at Level 2, showing the increase in complexity with addition of falling platforms.
+> An expansive look at Level 2, showing the increase in complexity with addition of falling platforms.
+---
 
 ![Wallsliding](screenshots/wallsliding.png)
-The player uses wall sliding to navigate vertical sections, with the opportunity to perform a wall jump to reach floating platforms.
+> The player uses wall sliding to navigate vertical sections, with the opportunity to perform a wall jump to reach floating platforms.
+---
 
 ![Jumping over the Saw](screenshots/jumping_saw.png)
-The player jumps over a moving saw.
+> The player jumps over a moving saw.
+---
 
 ![Falling platforms](screenshots/falling_platform.png)
-The player stands on a falling platform, with another platform behind already going down.
+> The player stands on a falling platform, with another platform behind already going down.
 
