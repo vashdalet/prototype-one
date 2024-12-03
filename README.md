@@ -1,4 +1,4 @@
-# 🐸 [2D Platformer Game Prototype]
+# 🐸 2D Platformer Game Prototype
 
 This prototype is a 2D platformer featuring two levels. It showcases creative use of Unity assets and custom mechanics to offer an engaging gameplay experience.
 
